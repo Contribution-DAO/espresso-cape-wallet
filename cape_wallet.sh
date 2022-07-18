@@ -38,18 +38,18 @@ Container_ID=$(docker ps -q -f name=espresso-wallet-1)
 result=$( docker inspect -f {{.State.Status}} $Container_ID)
 if [ $result = "running" ]
 then
-echo -e "cape-ui \e[32minstalled and running normally\e[39m!"
+echo -e "Espresso-ui \e[32minstalled and running normally\e[39m!"
 else
-echo -e "cape-ui \e[31mwas failed installed\e[39m, Please Re-install."
+echo -e "Espresso-ui \e[31mwas failed installed\e[39m, Please Re-install."
 fi
 
 Container2_ID=$(docker ps -q -f name=espresso-wallet-api-1)
 result2=$( docker inspect -f {{.State.Status}} $Container_ID)
 if [ $result2 = "running" ]
 then
-echo -e "cape-wallet \e[32minstalled and running normally\e[39m!"
+echo -e "Espresso-wallet \e[32minstalled and running normally\e[39m!"
 else
-echo -e "cape-wallet \e[31mwas failed installed\e[39m, Please Re-install."
+echo -e "Espresso-wallet \e[31mwas failed installed\e[39m, Please Re-install."
 fi
 
 
