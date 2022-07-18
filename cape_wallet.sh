@@ -29,7 +29,7 @@ sudo mkdir espresso
 cd espresso
 curl https://www.espressosys.com/cape/docker-compose.yaml --output docker-compose.yaml
 docker-compose pull
-docker-compose up
+docker-compose up -d
 
 echo "==========================================================================================================================="    
 
