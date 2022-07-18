@@ -47,7 +47,16 @@ netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=60000 co
 ```
 replace IP_YOUR_SERVER.
 
-![image](https://user-images.githubusercontent.com/83507970/179587364-e75906e8-f4b5-42c9-8da4-cd16ebed9dea.png)
+![image](https://user-images.githubusercontent.com/83507970/179594483-052872c1-d97a-4032-9fc2-c08f51c413b5.png)
 
 
+## 4. Cape Wallet setup.
+In Windows, open chrome or firefox browser, and type http://localhost/onboarding
+
+
+```
+http://localhost/onboarding
+```
+
+![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
 
