@@ -9,9 +9,13 @@
 >:black_square_button: Need Super user or root for run this script.<br>
 
 ## Official Site:
+
 Website: https://espressosys.com/
+
 Github: https://github.com/EspressoSystems
+
 CAPE docs: https://docs.cape.tech/
+
 CAPE user guide: https://docs.cape.tech/espresso-systems/cape-user-guide/welcome
 
 # Set up Espresso Wallet with  script.
