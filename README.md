@@ -6,7 +6,7 @@
 >:black_square_button: 4GB RAM<br>
 >:black_square_button: 30GB Storage<br>
 >:black_square_button: Port 80, 60000<br>
->:black_square_button: Need Super user or root for run this script.<br>
+
 
 ## Official Site:
 
