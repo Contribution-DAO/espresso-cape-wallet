@@ -50,7 +50,15 @@ replace IP_YOUR_SERVER.
 ![image](https://user-images.githubusercontent.com/83507970/179594483-052872c1-d97a-4032-9fc2-c08f51c413b5.png)
 
 
-## 4. Cape Wallet setup.
+
+## 4. Faucets ETH,USDC on Goerli testnet
+If you haven't used the Goerli testnet before, you'll need to request some testnet $ETH on Goerli. 
+
+The following faucets may be useful: https://faucet.paradigm.xyz/
+
+
+
+## 5. Cape Wallet setup.
 In Windows, open chrome or firefox browser, and type http://localhost/onboarding and please follow instruction https://docs.cape.tech/espresso-systems/cape-user-guide/creating-a-new-wallet to create CAPE wallet.
 
 
@@ -61,10 +69,7 @@ http://localhost/onboarding
 ![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
 
 
-## 5. Faucets ETH,USDC on Goerli testnet
-If you haven't used the Goerli testnet before, you'll need to request some testnet $ETH on Goerli. 
 
-The following faucets may be useful: https://faucet.paradigm.xyz/
 
 
 ## 6. Reset Proxy Setup.
