@@ -111,6 +111,10 @@ Search for Ubuntu in your Windows search bar, for open ubutu terminal
 ![image](https://user-images.githubusercontent.com/83507970/180128477-4c175179-04f6-41ba-9887-e0c73b67361f.png)
 
 
+![image](https://user-images.githubusercontent.com/83507970/180132619-e6a8a261-df9a-4e51-b6d5-a855bcb7a99d.png)
+
+
+
 ```
 sudo su
 ```
