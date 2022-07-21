@@ -62,7 +62,7 @@ Click on Get to download and install the Windows subsystem.
 
 
 
-## 3. Download Ubuntu
+## 3. Download Ubuntu from the Microsoft Store
 
 Opening the Microsoft Store app and searching for Ubuntu.
 
