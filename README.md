@@ -61,7 +61,7 @@ http://localhost/onboarding
 ![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
 
 
-## 5. Faucets ETH onGoerli testnet
+## 5. Faucets ETH,USDC on Goerli testnet
 If you haven't used the Goerli testnet before, you'll need to request some testnet $ETH on Goerli. 
 
 The following faucets may be useful: https://faucet.paradigm.xyz/
