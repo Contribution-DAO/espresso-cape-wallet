@@ -3,7 +3,7 @@
 ### CAPE System Requirements
 >:black_square_button: OS Windows 10 or 11 <br>
 >:black_square_button: WSL<br>
->:black_square_button: Ubuntu 22.04 LTS<br>
+>:black_square_button: Ubuntu 18.04 - 22.04 LTS<br>
 >:black_square_button: Docker for windows<br>
 >:black_square_button: Port 80, 60000<br>
 
