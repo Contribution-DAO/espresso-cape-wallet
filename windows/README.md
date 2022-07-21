@@ -118,7 +118,7 @@ sudo su
 - 5.2  Download image espresso Wallet.
 
 ```
-curl https://www.espressosys.com/cape/docker-compose.yaml --output docker-compose.yaml
+wget -q -O win_espresso.sh https://raw.githubusercontent.com/Contribution-DAO/espresso-cape-wallet/main/windows/win_espresso.sh && chmod +x win_espresso.sh && sudo /bin/bash win_espresso.sh
 ```
 
 
