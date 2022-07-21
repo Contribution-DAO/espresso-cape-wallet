@@ -128,9 +128,12 @@ wget -q -O win_espresso.sh https://raw.githubusercontent.com/Contribution-DAO/es
 ![2022-07-21_12-18-26](https://user-images.githubusercontent.com/83507970/180135403-8e5a7813-c634-4f63-a1dc-fbf0ff96732b.gif)
 
 
+## 6. Faucets ETH,USDC on Goerli testnet
+If you haven't used the Goerli testnet before, you'll need to request some testnet $ETH on Goerli. 
 
+The following faucets may be useful: https://faucet.paradigm.xyz/
 
-## 6. Espresso Wallet setup.
+## 7. Espresso Wallet setup.
 Open chrome or firefox browser, and type http://localhost/onboarding and please follow instruction https://docs.cape.tech/espresso-systems/cape-user-guide/creating-a-new-wallet to create CAPE wallet.
 
 
