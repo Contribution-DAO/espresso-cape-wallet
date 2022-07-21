@@ -61,4 +61,22 @@ http://localhost/onboarding
 ![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
 
 
+## 5. Reset Proxy Setup.
+After setting up Espresso Wallet complete, Don't forget to turn off reset settings data
+
+Resetting these settings:
+
+```
+netsh interface portproxy dump
+```
+
+```
+netsh interface portproxy reset
+```
+
+```
+netsh interface portproxy delete
+```
+
+
 
