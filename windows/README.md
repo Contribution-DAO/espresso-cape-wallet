@@ -125,4 +125,13 @@ sudo su
 wget -q -O win_espresso.sh https://raw.githubusercontent.com/Contribution-DAO/espresso-cape-wallet/main/windows/win_espresso.sh && chmod +x win_espresso.sh && sudo /bin/bash win_espresso.sh
 ```
 
+## 6. Espresso Wallet setup.
+Open chrome or firefox browser, and type http://localhost/onboarding and please follow instruction https://docs.cape.tech/espresso-systems/cape-user-guide/creating-a-new-wallet to create CAPE wallet.
+
+
+```
+http://localhost/onboarding
+```
+
+![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
 
