@@ -19,7 +19,7 @@ CAPE docs: https://docs.cape.tech/
 CAPE user guide: https://docs.cape.tech/espresso-systems/cape-user-guide/welcome
 
 # Set up Espresso Wallet on Windows.
-## 1. Virtual Machine Platform. and Windows hypervisor platform
+## 1. Install Virtual Machine Platform. and Windows hypervisor platform
 Search for Windows features.
 
 ```
