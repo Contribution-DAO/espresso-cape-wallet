@@ -102,5 +102,23 @@ Double-click Docker Desktop Installer.exe to run the installer.
 Once installed, you can either launch the application directly from the store or search for Ubuntu in your Windows search bar.
 
 
+## 5. Install Espresso Wallet
+
+- 5.1  Switch to root user
+
+Search for Ubuntu in your Windows search bar, for open ubutu terminal
+
+![image](https://user-images.githubusercontent.com/83507970/180128477-4c175179-04f6-41ba-9887-e0c73b67361f.png)
+
+
+```
+sudo su
+```
+
+- 5.2  Download image espresso Wallet.
+
+```
+curl https://www.espressosys.com/cape/docker-compose.yaml --output docker-compose.yaml
+```
 
 
