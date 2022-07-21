@@ -1,6 +1,6 @@
 # Espresso Wallet Setup
 
-### Sui Node Requirements
+### CAPE System Requirements
 >:black_square_button: OS Ubuntu 18.04 ++ <br>
 >:black_square_button: 2 CPUs<br>
 >:black_square_button: 4GB RAM<br>
@@ -51,7 +51,7 @@ replace IP_YOUR_SERVER.
 
 
 ## 4. Cape Wallet setup.
-In Windows, open chrome or firefox browser, and type http://localhost/onboarding
+In Windows, open chrome or firefox browser, and type http://localhost/onboarding and please follow instruction https://docs.cape.tech/espresso-systems/cape-user-guide/creating-a-new-wallet to create CAPE wallet.
 
 
 ```
@@ -59,4 +59,6 @@ http://localhost/onboarding
 ```
 
 ![image](https://user-images.githubusercontent.com/83507970/179597973-ab8005bb-59fa-4117-8e17-e846de888ac7.png)
+
+
 
