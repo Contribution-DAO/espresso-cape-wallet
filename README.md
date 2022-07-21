@@ -1,4 +1,4 @@
-# Espresso Wallet Setup
+# Espresso Wallet VPS Setup 
 
 ### CAPE System Requirements
 >:black_square_button: OS Ubuntu 18.04 ++ <br>
