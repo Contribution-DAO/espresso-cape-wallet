@@ -31,7 +31,9 @@ sudo su
 wget -q -O cape_wallet.sh https://raw.githubusercontent.com/Contribution-DAO/espresso-cape-wallet/main/cape_wallet.sh && chmod +x cape_wallet.sh && sudo /bin/bash cape_wallet.sh
 ```
 
-## 3. Setup Proxy
+## 3. Setup Proxy. 
+
+### (For Windows User)
 
 In Windows, open cmd and run as administrator.
 
@@ -48,6 +50,26 @@ netsh interface portproxy add v4tov4 listenaddress=127.0.0.1 listenport=60000 co
 replace IP_YOUR_SERVER.
 
 ![image](https://user-images.githubusercontent.com/83507970/179594483-052872c1-d97a-4032-9fc2-c08f51c413b5.png)
+
+
+### (For Mac User)
+
+Download the chrome extension : https://chrome.google.com/webstore/detail/mdnleldcmiljblolnjhpnblkcekpdkpa
+- After install extension, Go to the extension control panel.
+
+Click : Create My First Rule
+![cape1](https://user-images.githubusercontent.com/83507970/180610574-54b6cd75-a508-49b2-b942-961d20412d23.png)
+
+
+Choose : Replace String
+
+![cape2](https://user-images.githubusercontent.com/83507970/180610606-9d96dbac-e7fa-48b7-a263-1ea8d60657e2.png)
+
+Setup following and click Create Rule
+![cape3](https://user-images.githubusercontent.com/83507970/180610635-40cc287c-da07-4908-95e3-0d4743feff06.png)
+
+
+
 
 
 
@@ -72,7 +94,7 @@ http://localhost/onboarding
 
 
 
-## 6. Reset Proxy Setup.
+## 6. Reset Proxy Setup. (For Windows User)
 After setting up Espresso Wallet complete, Don't forget to turn off reset settings data
 
 Resetting these settings:
@@ -89,5 +111,6 @@ netsh interface portproxy reset
 netsh interface portproxy delete
 ```
 
-
+## 7. Submit CAPE User Survey 
+Submit CAPE User Survey at https://forms.gle/99yv7txxgeArdX698
 
