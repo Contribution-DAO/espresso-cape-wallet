@@ -33,7 +33,7 @@ echo -e "Espresso-ui \e[31mwas failed installed\e[39m, Please Re-install."
 fi
 
 Container2_ID=$(docker ps -q -f name=espresso-wallet-api-1)
-result2=$( docker inspect -f {{.State.Status}} $Container_ID)
+result2=$( docker inspect -f {{.State.Status}} $Container2_ID)
 if [ $result2 = "running" ]
 then
 echo -e "Espresso-wallet \e[32minstalled and running normally\e[39m!"
